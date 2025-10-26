@@ -64,5 +64,5 @@ Una herramienta web que convierte videos MP4 en subtítulos ASCII para YouTube e
 
 ## Créditos 
 
-**Autor**: **SaMeiers** 
-**Código inspirado**: **Natchwind**
+- **Autor**: **SaMeiers** 
+- **Código inspirado**: **Natchwind**
